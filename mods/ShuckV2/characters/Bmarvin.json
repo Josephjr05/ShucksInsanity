@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [242, 285],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [247, 281],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [213, 284],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [254, 277],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [233, 293],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [281, 299],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftmiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [256, 282],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upmiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [227, 286],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downmiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [253, 290],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightmiss0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/marvin",
+	"position": [0, 350],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [230, -200],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": true
+}

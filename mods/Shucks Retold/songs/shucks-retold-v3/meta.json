@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 195,
+	"difficulties": [
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "shucks-retold-v3",
+	"icon": "marvin",
+	"name": "shucks-retold-v3",
+	"color": "#FFFFFF"
+}

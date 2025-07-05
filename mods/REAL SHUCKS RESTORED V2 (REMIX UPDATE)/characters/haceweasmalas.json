@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				198
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "haceweasmalas idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				385,
+				287
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "haceweasmalas left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "haceweasmalas down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				389,
+				755
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "haceweasmalas up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				49
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "haceweasmalas right",
+			"indices": []
+		}
+	],
+	"vocals_file": "dbtg",
+	"no_antialiasing": false,
+	"image": "characters/haceweasmalas",
+	"position": [
+		0,
+		190
+	],
+	"healthicon": "dbtg",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		105,
+		34
+	],
+	"camera_position": [
+		-260,
+		-550
+	],
+	"sing_duration": 6.1,
+	"scale": 2.1,
+	"_editor_isPlayer": false
+}

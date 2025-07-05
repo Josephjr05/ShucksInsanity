@@ -1,0 +1,35 @@
+{
+	"storyName": "VS Chara 2.0",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Megalo-Strike-Back",
+			"chara",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"The-Slaughter-Continues",
+			"chara",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Chara Week"
+}

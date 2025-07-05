@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [316, -212],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [19, -29],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [309, 807],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [455, 134],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-36, -414],
+			"anim": "bitch",
+			"fps": 24,
+			"name": "Bruh What",
+			"indices": []
+		},
+		{
+			"offsets": [-13, 196],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [0, 3, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+			"name": "IDLE"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/DETG",
+	"position": [0, -350],
+	"healthicon": "detg",
+	"flip_x": false,
+	"healthbar_colors": [255, 101, 40],
+	"camera_position": [-820, -580],
+	"sing_duration": 5,
+	"scale": 1.39,
+	"_editor_isPlayer": false
+}

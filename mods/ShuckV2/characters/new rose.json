@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Rosie left"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Rosie up"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rosie right"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Rosie down"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "knockout",
+			"fps": 17,
+			"name": "Rosie hammer",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 17,
+			"name": "Rosie idle",
+			"indices": []
+		},
+		{
+			"offsets": [1, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "dead",
+			"indices": [],
+			"name": "Rosie dead"
+		},
+		{
+			"loop": true,
+			"offsets": [1, 1],
+			"anim": "idle-alt",
+			"fps": 17,
+			"name": "Rosie dead",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Rosie",
+	"position": [0, 0],
+	"healthicon": "rose",
+	"flip_x": false,
+	"healthbar_colors": [62, 255, 245],
+	"camera_position": [30, 0],
+	"sing_duration": 4,
+	"scale": 1.15,
+	"_editor_isPlayer": false
+}

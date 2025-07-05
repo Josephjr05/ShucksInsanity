@@ -1,0 +1,23 @@
+flixel/math/FlxMath.hx (line 276)
+states/editors/ChartingState.hx (line 2611)
+states/editors/ChartingState.hx (line 2563)
+states/editors/ChartingState.hx (line 2611)
+backend/ui/PsychUIButton.hx (line 93)
+flixel/group/FlxGroup.hx (line 151)
+flixel/group/FlxSpriteGroup.hx (line 209)
+backend/ui/PsychUITab.hx (line 48)
+backend/ui/PsychUIBox.hx (line 166)
+flixel/group/FlxGroup.hx (line 151)
+backend/MusicBeatState.hx (line 83)
+states/editors/ChartingState.hx (line 961)
+flixel/FlxState.hx (line 239)
+flixel/FlxGame.hx (line 749)
+flixel/FlxGame.hx (line 679)
+flixel/FlxGame.hx (line 552)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: Mod by 0 Error.
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rose final.png">
+<SubTexture name="Rosie idle0000" x="0" y="0" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0001" x="0" y="0" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0002" x="0" y="0" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0003" x="0" y="0" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0004" x="557" y="0" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0005" x="557" y="0" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0006" x="557" y="443" width="557" height="442" frameX="-362" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0007" x="557" y="443" width="557" height="442" frameX="-362" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0008" x="1114" y="0" width="558" height="440" frameX="-362" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0009" x="1114" y="440" width="558" height="440" frameX="-362" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0010" x="0" y="443" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0011" x="0" y="443" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0012" x="0" y="0" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Rosie idle0013" x="0" y="0" width="557" height="443" frameX="-362" frameY="-136" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
