@@ -1,85 +1,85 @@
 {
 	"animations": [
 		{
-			"offsets": [-10, 95],
 			"loop": true,
-			"fps": 24,
+			"offsets": [-10, 95],
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [281, 299],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "leftmiss",
-			"indices": []
+			"indices": [],
+			"name": "leftmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [267, 299],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "downmiss",
-			"indices": []
+			"indices": [],
+			"name": "downmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [287, 312],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "upmiss",
-			"indices": []
+			"indices": [],
+			"name": "upmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [293, 310],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "rightmiss",
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rightmiss"
+		},
+		{
+			"loop": false,
+			"offsets": [85, 24],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "Left",
 			"indices": []
 		},
 		{
-			"offsets": [85, 24],
-			"indices": [],
-			"fps": 30,
-			"anim": "singLEFT",
 			"loop": false,
-			"name": "Left"
-		},
-		{
 			"offsets": [-7, -46],
-			"indices": [],
-			"fps": 30,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "Down"
+			"fps": 30,
+			"name": "Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [4, 217],
-			"indices": [],
-			"fps": 30,
 			"anim": "singUP",
-			"loop": false,
-			"name": "Up"
+			"fps": 30,
+			"name": "Up",
+			"indices": []
 		},
 		{
-			"offsets": [-8, 83],
-			"indices": [],
-			"fps": 30,
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Right"
+			"offsets": [-8, 83],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "Right",
+			"indices": []
 		}
 	],
-	"vocals_file": "",
+	"vocals_file": "marvin",
 	"no_antialiasing": false,
 	"image": "characters/Chained_Marvin, characters/marvin",
 	"position": [0, 350],
-	"healthicon": "bf",
+	"healthicon": "marvin",
 	"flip_x": true,
-	"healthbar_colors": [49, 176, 209],
+	"healthbar_colors": [255, 0, 0],
 	"camera_position": [0, 0],
 	"sing_duration": 4,
 	"scale": 1.2,

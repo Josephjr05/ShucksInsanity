@@ -52,10 +52,24 @@ function onStepHit()
     ]])
 	end
 
-    if curStep == 1536 then
+    if curStep == 904 then
+        runHaxeCode([[
+        game.camGame.setFilters([]);
+        game.camHUD.setFilters([]);
+    ]])
+    end
+
+       if curStep == 1536 then
         runHaxeCode([[
         game.camGame.setFilters([new ShaderFilter(game.getLuaObject("bloom").shader)]);
         game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("chromatic").shader)]);
+    ]])
+    end
+
+       if curStep == 1544 then
+        runHaxeCode([[
+        game.camGame.setFilters([]);
+        game.camHUD.setFilters([]);
     ]])
     end
 
@@ -65,6 +79,77 @@ function onStepHit()
         game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("chromatic").shader)]);
     ]])
     end
+ 
+      if curStep == 1558 then
+        runHaxeCode([[
+        game.camGame.setFilters([]);
+        game.camHUD.setFilters([]);
+    ]])
+    end
+ 
+     if curStep == 1564 then
+        runHaxeCode([[
+        game.camGame.setFilters([new ShaderFilter(game.getLuaObject("bloom").shader)]);
+        game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("chromatic").shader)]);
+    ]])
+    end 
+
+     if curStep == 1568    then
+        runHaxeCode([[
+        game.camGame.setFilters([]);
+        game.camHUD.setFilters([]);
+    ]])
+    end
+
+     if curStep == 1576   then
+        runHaxeCode([[
+        game.camGame.setFilters([new ShaderFilter(game.getLuaObject("bloom").shader)]);
+        game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("chromatic").shader)]);
+    ]])
+    end 
+
+     if curStep == 1584   then
+        runHaxeCode([[
+        game.camGame.setFilters([]);
+        game.camHUD.setFilters([]);
+    ]])
+    end
+
+      if curStep == 1590 then
+        runHaxeCode([[
+        game.camGame.setFilters([new ShaderFilter(game.getLuaObject("bloom").shader)]);
+        game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("chromatic").shader)]);
+    ]])
+    end 
+ 
+     if curStep == 1596 then
+        runHaxeCode([[
+        game.camGame.setFilters([]);
+        game.camHUD.setFilters([]);
+    ]])
+    end
+
+    if curStep == 1600 then
+        runHaxeCode([[
+        game.camGame.setFilters([new ShaderFilter(game.getLuaObject("bloom").shader)]);
+        game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("chromatic").shader)]);
+    ]])
+    end 
+
+     if curStep == 1608 then 
+        runHaxeCode([[
+        game.camGame.setFilters([]);
+        game.camHUD.setFilters([]);
+    ]])
+    end
+
+    if curStep == 1616 then
+        runHaxeCode([[
+        game.camGame.setFilters([new ShaderFilter(game.getLuaObject("bloom").shader)]);
+        game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("chromatic").shader)]);
+    ]])
+    end 
+
 
      if curStep == 2803 then
         runHaxeCode([[

@@ -1,9 +1,0 @@
-{
-    "params": [
-        {
-            "name": "Video Path",
-            "type": "String",
-            "defaultValue": ""
-        }
-    ]
-}

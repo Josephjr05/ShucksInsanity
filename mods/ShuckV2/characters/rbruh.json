@@ -1,21 +1,21 @@
 {
 	"animations": [
 		{
-			"offsets": [136, 627],
-			"indices": [],
-			"fps": 26,
-			"anim": "rbruh",
 			"loop": false,
-			"name": "Bruh What"
+			"offsets": [136, 627],
+			"anim": "rbruh",
+			"fps": 26,
+			"name": "Bruh What",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/RDETG",
 	"position": [0, 0],
-	"healthicon": "bf",
+	"healthicon": "detg",
 	"flip_x": false,
-	"healthbar_colors": [49, 176, 209],
+	"healthbar_colors": [185, 93, 42],
 	"camera_position": [-820, -580],
 	"sing_duration": 4,
 	"scale": 1.2,

@@ -1,68 +1,68 @@
 {
 	"animations": [
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 12,
+			"offsets": [0, 0],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Rosie left"
+			"fps": 12,
+			"name": "Rosie left",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 12,
+			"offsets": [0, 0],
 			"anim": "singUP",
-			"indices": [],
-			"name": "Rosie up"
+			"fps": 12,
+			"name": "Rosie up",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 12,
+			"offsets": [0, 0],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Rosie right"
-		},
-		{
-			"offsets": [0, 0],
-			"loop": false,
 			"fps": 12,
+			"name": "Rosie right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Rosie down"
+			"fps": 12,
+			"name": "Rosie down",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [0, 0],
+			"loop": false,
+			"fps": 17,
 			"anim": "knockout",
-			"fps": 17,
-			"name": "Rosie hammer",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [0, 0],
-			"anim": "idle",
-			"fps": 17,
-			"name": "Rosie idle",
-			"indices": []
-		},
-		{
-			"offsets": [1, 1],
-			"loop": false,
-			"fps": 24,
-			"anim": "dead",
 			"indices": [],
-			"name": "Rosie dead"
+			"name": "Rosie hammer"
 		},
 		{
+			"offsets": [0, 0],
 			"loop": true,
-			"offsets": [1, 1],
-			"anim": "idle-alt",
 			"fps": 17,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rosie idle"
+		},
+		{
+			"loop": false,
+			"offsets": [1, 1],
+			"anim": "dead",
+			"fps": 24,
 			"name": "Rosie dead",
 			"indices": []
+		},
+		{
+			"offsets": [1, 1],
+			"loop": true,
+			"fps": 17,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Rosie dead"
 		}
 	],
 	"vocals_file": "",
