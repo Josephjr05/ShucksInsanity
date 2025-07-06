@@ -4,6 +4,8 @@ function precacheStage()
 precacheImage('bg');
     precacheImage('Imagen');
 	precacheImage('Texto');
+            precacheImage('red');
+               precacheImage('Bhud');
 end
 
 function onCreate()
@@ -25,9 +27,24 @@ function onCreate()
 	setObjectCamera('Texto', 'camHUD');
 	setProperty('Texto.alpha', 0);
 
+    makeLuaSprite('red', 'RedV', 0, 0); -- Rowan make sure you change the path to the image
+    setLuaSpriteScrollFactor('red', 1, 1);
+	scaleObject('red', 1, 1);
+	setObjectCamera('red', 'camOther');
+	setProperty('red.alpha', 0);
+
+    makeLuaSprite('Bhud', 'bloody hud', 0, 0); -- Rowan make sure you change the path to the image
+    setLuaSpriteScrollFactor('Bhud', 1, 1);
+	scaleObject('Bhud', 0.7, 0.7);
+	setObjectCamera('Bhud', 'camOther');
+	setProperty('Bhud.alpha', 0);
+        screenCenter('Bhud', 'x', 'y')
+
     addLuaSprite('bg', false);    
     addLuaSprite('Imagen', false);
     addLuaSprite('Texto', false);
+    addLuaSprite('red', false); 
+    addLuaSprite('Bhud', false);
 end
 
 function onStepHit()
@@ -42,4 +59,13 @@ function onStepHit()
 		doTweenAlpha('Portada', 'Imagen', 0, 0.50);
 		doTweenAlpha('Titulo', 'Texto', 0, 0.50);
 	end
+    if curStep == 2801 then -- also step nigger, FUCK YOU
+                doTweenAlpha('dbd', 'red', 1, 0.10);
+                doTweenAlpha('hud', 'Bhud', 0.7, .50);
+        end
+    if curStep == 3196 then -- also step nigger, FUCK YOU
+                doTweenAlpha('dbd', 'red', 0, 0.10);
+                doTweenAlpha('hud', 'Bhud', 0, 0.10);
+        end
+    
 end
