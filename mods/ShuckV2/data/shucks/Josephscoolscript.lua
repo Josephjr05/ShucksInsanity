@@ -33,7 +33,7 @@ function onCreate()
 	setObjectCamera('red', 'camOther');
 	setProperty('red.alpha', 0);
 
-    makeLuaSprite('Bhud', 'bloody hud', 0, 0); -- Rowan make sure you change the path to the image
+    makeLuaSprite('shud', 'bloody hud', 0, 0); -- Rowan make sure you change the path to the image
     setLuaSpriteScrollFactor('Bhud', 1, 1);
 	scaleObject('Bhud', 0.7, 0.7);
 	setObjectCamera('Bhud', 'camOther');
@@ -61,7 +61,7 @@ function onStepHit()
 	end
     if curStep == 2801 then -- also step nigger, FUCK YOU
                 doTweenAlpha('dbd', 'red', 1, 0.10);
-                doTweenAlpha('hud', 'Bhud', 0.7, .50);
+                doTweenAlpha('hud', 'Bhud', 0.8, .50);
         end
     if curStep == 3196 then -- also step nigger, FUCK YOU
                 doTweenAlpha('dbd', 'red', 0, 0.10);

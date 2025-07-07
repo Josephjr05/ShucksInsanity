@@ -2838,9 +2838,7 @@
 		},
 		{
 			"sectionBeats": 4,
-			"sectionNotes": [
-				[201538.461538461, 0, 0]
-			],
+			"sectionNotes": [],
 			"gfSection": false,
 			"altAnim": false,
 			"mustHitSection": false,
@@ -5167,7 +5165,9 @@
 				["HUD Switch", "0.6", "off"],
 				["lyrics", "I", ""],
 				["Cinematics (UnderLap)", "0.5", "90"],
-				["Camera Follow Pos", "100", "-300"]
+				["Camera Follow Pos", "100", "-300"],
+				["Change Character", "BF", "Marvins"],
+				["Play Animation", "idle", "BF"]
 			]
 		],
 		[
@@ -5216,13 +5216,6 @@
 			197538.461538461,
 			[
 				["lyrics", "I would recommend t", ""]
-			]
-		],
-		[
-			197576.923076923,
-			[
-				["Change Character", "BF", "marvin cut"],
-				["Play Animation", "talk", "BF"]
 			]
 		],
 		[
@@ -5750,7 +5743,6 @@
 		[
 			216461.538461538,
 			[
-				["RedFlash", "0.5", ""],
 				["Cinematics (UnderLap)", "1", "0"]
 			]
 		],
@@ -5762,6 +5754,276 @@
 				["Change Character", "GF", "dead rose"],
 				["Camera Follow Pos", "", ""],
 				["Change Character", "BF", "Bmarvin"]
+			]
+		],
+		[
+			216608.974358974,
+			[
+				["Change Character", "Dad", "DETGb"]
+			]
+		],
+		[
+			216923.076923076,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			217538.461538461,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			218153.846153846,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			218769.23076923,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			219384.615384615,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			219999.999999999,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			220615.384615384,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			221230.769230769,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			221846.153846153,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			222461.538461538,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			223076.923076923,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			223692.307692307,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			224307.692307692,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			224923.076923076,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			225538.461538461,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			226153.846153846,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			226769.23076923,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			227384.615384615,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			227999.999999999,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			228615.384615384,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			229230.769230769,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			229846.153846153,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			230461.538461538,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			231076.923076922,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			231692.307692307,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			232307.692307692,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			232923.076923076,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			233538.461538461,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			234153.846153845,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			234769.23076923,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			235384.615384615,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			235999.999999999,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			236615.384615384,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			237230.769230769,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			237846.153846153,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			238461.538461538,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			239076.923076922,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			239692.307692307,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			240307.692307692,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			240923.076923076,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			241538.461538461,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			242153.846153845,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			242769.23076923,
+			[
+				["Add Camera Zoom", ".05", ".1"]
+			]
+		],
+		[
+			243384.615384615,
+			[
+				["Add Camera Zoom", ".05", ".1"]
 			]
 		],
 		[
@@ -5781,7 +6043,7 @@
 	"disableNoteRGB": true,
 	"song": "shucks",
 	"needsVoices": false,
-	"stage": "shuck_stageNoB",
+	"stage": "shuck_stage",
 	"arrowSkin": null,
 	"bpm": 195,
 	"speed": 3.2,
