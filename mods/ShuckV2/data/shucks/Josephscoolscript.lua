@@ -33,7 +33,7 @@ function onCreate()
 	setObjectCamera('red', 'camOther');
 	setProperty('red.alpha', 0);
 
-    makeLuaSprite('shud', 'bloody hud', 0, 0); -- Rowan make sure you change the path to the image
+    makeLuaSprite('Bhud', 'bloody hud', 0, 0); -- Rowan make sure you change the path to the image
     setLuaSpriteScrollFactor('Bhud', 1, 1);
 	scaleObject('Bhud', 0.7, 0.7);
 	setObjectCamera('Bhud', 'camOther');
